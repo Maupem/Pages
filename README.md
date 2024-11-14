@@ -6,7 +6,7 @@ Este proyecto es una Ejercicio para aporender mas sobre el desarrolo de paginas 
 - Aprender de estructura de pagina web
 - Aprender a vincular un repositorio online con un repositorio local
 - aprender a crear un github pages
-- Divertise
+- Divertirse
 
   ##Codigo
 
